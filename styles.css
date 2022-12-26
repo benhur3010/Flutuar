@@ -6,11 +6,20 @@
 
 :root {
   font-size: 62.5%;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+main {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.img-header {
+ margin: 0 auto;
 }
 
 h1 {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
+
 }
-
-
