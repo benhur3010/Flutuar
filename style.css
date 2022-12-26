@@ -7,10 +7,10 @@
 :root {
   font-size: 62.5%;
 
-  --bg-primary-color: hsl(0, 0%, 100%,);
-  --color-secondary: #3F3D56;
+  --bg-primary-color: hsl(0, 0%, 100%);
+  --color-secondary: #3f3d56;
   --color-primary: #828282;
-  --bg-footer-color: #3F3D56;
+  --bg-footer-color: #3f3d56;
 }
 
 body {
@@ -30,7 +30,7 @@ main {
   height: 48.6rem;
   align-items: center;
   text-align: center;
-  
+
   color: var(--color-primary);
   font-weight: 400;
 }
@@ -51,7 +51,7 @@ span {
 }
 
 h1 span {
-  color: #EE24FF;
+  color: #ee24ff;
 }
 
 p {
@@ -59,7 +59,7 @@ p {
   line-height: 2.2rem;
 }
 
-main p  + p {
+main p + p {
   margin-top: 3.2rem;
 }
 
@@ -72,7 +72,7 @@ footer {
 
 .line {
   width: 39.1rem;
-  border-top: 1px solid #ECEFF2;
+  border-top: 1px solid #eceff2;
   margin-bottom: 1.6rem;
 }
 
@@ -87,7 +87,7 @@ ul {
   margin-bottom: 4rem;
 }
 
-footer img {
+.wave {
   position: absolute;
   top: 67.4rem;
   left: 0;
